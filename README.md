@@ -1,2 +1,1 @@
-# dissertation
-Dissertation code repository
+# Neal MacDonald's Dissertation Code Repository
