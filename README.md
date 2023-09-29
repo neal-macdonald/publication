@@ -1,1 +1,1 @@
-# Neal MacDonald's Dissertation Code Repository
+# Neal MacDonald's Publication Code Repository
